@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\bin\Debug\WMIAppRefactoring.exe.config
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\bin\Debug\WMIAppRefactoring.exe
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\bin\Debug\WMIAppRefactoring.pdb
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\obj\Debug\WMIAppRefactoring.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\obj\Debug\WMIAppRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\obj\Debug\WMIAppRefactoring.exe
+C:\Users\Kevin\source\repos\WMIAppRefactoring\WMIAppRefactoring\obj\Debug\WMIAppRefactoring.pdb
